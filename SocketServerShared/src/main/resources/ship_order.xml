@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ship_order order_id="ZZ-99" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ship_order.xsd">
+  <order_person>Some Person</order_person>
+  <ship_to>
+    <name>Test User</name>
+    <address>Toronto</address>
+    <city>Toronto</city>
+    <country>Canada</country>
+  </ship_to>
+  <item>
+    <title>Title #1</title>
+    <quantity>1</quantity>
+    <price>5.0</price>
+  </item>
+  <item>
+    <title>Title #2</title>
+    <quantity>1</quantity>
+    <price>0.4</price>
+  </item>
+</ship_order>
